@@ -1,6 +1,7 @@
 当前这个Demo是基于'com.zhy:flowlayout-lib:1.0.3'进行的单选、多选功能进行的展示。
 ![](https://github.com/klzy/FlowLayoutDemo/blob/master/screen/1.png)
 ![](https://github.com/klzy/FlowLayoutDemo/blob/master/screen/2.png)
+
 通过这个Demo可学到如下的技术点：
 1 此项目使用dataBinding技术
 2 在BindingAdapter类中，展示了几个自定义BindingAdapter的方法
