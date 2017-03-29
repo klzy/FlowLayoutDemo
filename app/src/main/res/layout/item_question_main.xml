@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+
+        <variable
+            name="questionItem"
+            type="com.klzy.flowlayoutdemo.Entity.QuestionItemEntity" />
+
+    </data>
+
+    <RelativeLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/asr_study_bg"
+        android:paddingBottom="15px"
+        android:paddingLeft="32px"
+        android:paddingRight="32px"
+        android:paddingTop="15px"
+        app:layout_auto_basewidth="height">
+
+        <TextView
+            android:id="@+id/txt_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10px"
+            android:textColor="@color/asr_enable"
+            android:textSize="@dimen/asr_size_2normal"
+            android:text="@{questionItem.title}"
+            />
+
+    </RelativeLayout>
+</layout>

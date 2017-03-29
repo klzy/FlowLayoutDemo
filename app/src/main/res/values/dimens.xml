@@ -1,0 +1,19 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="asr_size_1large">36px</dimen>
+    <dimen name="asr_size_2normal">30px</dimen>
+    <dimen name="asr_size_3small">24px</dimen>
+    <dimen name="asr_size_4micro">20px</dimen>
+    <dimen name="asr_size_5copyright">18px</dimen>
+    <dimen name="asr_new_normal">32px</dimen>
+    <dimen name="asr_new_small">22px</dimen>
+    <dimen name="asr_new_micro">18px</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="post_media_height">400px</dimen>
+
+    <dimen name="divider_height">30px</dimen>
+    <dimen name="divider_padding">30px</dimen>
+</resources>

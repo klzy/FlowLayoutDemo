@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="common_white_color">#ffffffff</color>
+    <color name="common_black_color">#ff383838</color>
+    <color name="common_orange_color">#ffff6d00</color>
+    <color name="common_transparent_color">#00000000</color>
+    <color name="listview_diver_filter_color">#ff000000</color>
+    <color name="listview_diver_gray">#ffd6d6d6</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="title_center">#FF000000</color>
+    <color name="title_edit">#FF333333</color>
+    <color name="asr_enable">#FF333333</color>
+    <color name="asr_notenable">#FF999999</color>
+
+    <color name="asr_green">#FF00b374</color>
+    <color name="asr_orange">#FFff7a19</color>
+    <color name="asr_point_red">#FFfe0000</color>
+    <color name="asr_txt_blue">#FF49b5f9</color>
+    <color name="asr_txt_orange">#FFff6f06</color>
+    <color name="asr_txt_green">#FF0dd890</color>
+    <color name="asr_txt_hint">#FFdddddd</color>
+    <color name="asr_txt_login">#FFababab</color>
+
+    <color name="asr_line_group">#FFdadada</color>
+
+    <color name="asr_group_title">#FF666666</color>
+    <color name="asr_group_back">#FFf2f2f2</color>
+    <color name="asr_group_back1">#FFfafafa</color>
+    <color name="asr_background">#FFfafafa</color>
+    <color name="asr_line">#FFe0e0e0</color>
+    <color name="asr_line_title">#FFcbcbc9</color>
+    <color name="asr_title_bottom">#FFdad6d5</color>
+    <color name="asr_search_back">#FF0cc684</color>
+    <color name="asr_hint_back">#B4000000</color>
+
+    <color name="asr_chapter_back">#FFedf1f0</color>
+    <color name="asr_back_qq">#FF00a0ea</color>
+    <color name="asr_back_wx">#FF48c569</color>
+    <color name="asr_back_yun">#FFff9a2e</color>
+    <color name="asr_light_yellow">#FFfcfae2</color>
+    <color name="asr_text_orange">#FFfa703a</color>
+    <color name="asr_btn_red">#FFf42f2f</color>
+
+    <color name="asr_shadow">#25808080</color>
+    <color name="asr_shadow_bg">#00000000</color>
+    <color name="asr_shadow_triangle">#aa72d572</color>
+    <color name="asr_shadow_circle">#aa738ffe</color>
+    <color name="asr_shadow_rect">#aae84e40</color>
+    <color name="asr_shadow_dropdown">#55000000</color>
+    <color name="asr_circle_text">#FFaaaaaa</color>
+    <color name="asr_circle_bg">#FFeeeeee</color>
+
+    <color name="asr_ranking_bg">#FFa8e4ee</color>
+
+    <color name="asr_zxing_contents_text">#ff000000</color>
+    <color name="asr_zxing_encode_view">#ffffffff</color>
+    <color name="asr_zxing_possible_result_points">#c0ffbd21</color> <!-- Android standard ICS color -->
+    <color name="asr_zxing_result_minor_text">#ffc0c0c0</color>
+    <color name="asr_zxing_result_points">#c099cc00</color> <!-- Android standard ICS color -->
+    <color name="asr_zxing_result_text">#ffffffff</color>
+    <color name="asr_zxing_result_view">#b0000000</color>
+    <color name="asr_zxing_status_text">#ffffffff</color>
+    <color name="asr_zxing_transparent">#00000000</color>
+    <color name="asr_zxing_viewfinder_laser">#ffcc0000</color> <!-- Android standard ICS color -->
+    <color name="asr_zxing_viewfinder_mask">#60000000</color>
+
+    <color name="asr_d_text1">#333333</color>
+    <color name="asr_d_text2">#999999</color>
+    <color name="asr_d_text3">#666666</color>
+    <color name="asr_d_tadbg">#6b9bfb</color>
+    <color name="asr_d_text4">#aedddddd</color>
+    <color name="asr_d_text5">#ff0000</color>
+    <color name="asr_d_text6">#ae333333</color>
+
+    <color name="asr_water_count">#FFfa703a</color>
+    <color name="asr_water_date">#FFFF9000</color>
+    <color name="asr_bg_grey">#FFf0f0f0</color>
+    <color name="asr_timeaxis_work">#FFFD8025</color>
+    <color name="asr_timeaxis_peroid">#FF00b374</color>
+    <color name="asr_timeaxis_line">#FFcccccc</color>
+    <color name="asr_study_line">#FFb7b7b7</color>
+    <color name="asr_study_blue">#FF45B0FE</color>
+    <color name="asr_study_bg">#FFf6f6f6</color>
+    <color name="asr_study_gray">#FF969696</color>
+
+</resources>
